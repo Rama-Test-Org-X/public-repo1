@@ -1,10 +1,5 @@
 title: "On-Call Weekly debrief - Week of <Month> <Day>, <Year>"
-labels: ["assign:first-responder"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## First Responder Debrief
   - type: textarea
     attributes:
       label: "🚦 Incidents"
